@@ -1,4 +1,4 @@
-<img src="killua.jpeg" alt="GitHub Banner" width="100%"/>
+<img src="killua-banner.jpeg" alt="GitHub Banner" width="100%"/>
 
 # 💫 About Me
 
