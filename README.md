@@ -1,3 +1,5 @@
+<img src="killua.jpeg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me
 
 \#1 killua fan
