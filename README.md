@@ -1,6 +1,6 @@
 # 💫 About Me
 
-# #1 killua fan
+\#1 killua fan
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idknevo/idknevo/output/github-snake-dark.svg" />
