@@ -2,7 +2,7 @@
 
 # About Me
 
-\#1 killua fan
+\#1 killua fan (don't click on the next line)
 <!-- got u -->
 <a href="https://youtu.be/xvFZjo5PgG0?si=6lJ1j9lRT09AJ0Sf"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
