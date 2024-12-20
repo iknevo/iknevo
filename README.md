@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,redux,nodejs,mongodb,npm,vite,git,github,vim,vscode,windows,powershell,babel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,redux,nodejs,mongodb,npm,vite,git,github,vim,vscode,windows,powershell,babel)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idknevo/idknevo/output/github-snake-dark.svg" />
