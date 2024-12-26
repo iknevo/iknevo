@@ -4,7 +4,7 @@
 
 \#1 killua fan (don't click the next line)
 <!-- got u -->
-<a href="https://youtu.be/xvFZjo5PgG0?si=6lJ1j9lRT09AJ0Sf"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://youtu.be/dQw4w9WgXcQ?si=kUAESRvbm_yrdl-a"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # 💻 Tech Stack
 
