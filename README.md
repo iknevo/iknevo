@@ -1,6 +1,6 @@
 # Ahmed Abdelhafiez
 <!-- banner -->
-![Profile Banner](./assets/killua-banner.jpeg);
+<img src="./assets/killua-banner.jpeg" width="100%"/>
 
 <p align="left"> Front-end developer. Proficient in building responsive, user-friendly interfaces and
 translating designs into functional applications. Eager to contribute and grow within a
@@ -49,4 +49,4 @@ dynamic team.</p>
 </picture>
 <br>
 <br>
-<img src="./assets/download.jpg"/>
+<img src="./assets/download.jpg" width="100%"/>
