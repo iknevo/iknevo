@@ -12,16 +12,6 @@ dynamic team.</p>
 <!-- got u -->
 <a href="https://youtu.be/xvFZjo5PgG0?si=4g5LqRk7biVjJ7Sq"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
-<br>
-
-<img align="left" alt="GIF" src="./assets/Tech Technology GIF by The Coding Space RD.gif" width="400px"/>
-
-<img align="right" alt="GIF" src="./assets/Code Hacking GIF by Pizza Ninjas.gif" width="400px"/>
-
-##
-
-<br>
-
 <details open>
 <summary><b>Skills and Tools</b></summary>
 <br>
