@@ -47,7 +47,6 @@ dynamic team.</p>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idknevo/idknevo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-## ✍️ Quote
-
-![Quote Card](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<br>
+<img src="./assets/download.jpg"/>
