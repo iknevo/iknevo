@@ -14,9 +14,9 @@ dynamic team.</p>
 <br>
 <br>
 
-<img align="center" alt="GIF" src="./assets/Tech Technology GIF by The Coding Space RD.gif" width="400px"/>
+<img align="left" alt="GIF" src="./assets/Tech Technology GIF by The Coding Space RD.gif" width="400px"/>
 
-<img align="center" alt="GIF" src="./assets/Code Hacking GIF by Pizza Ninjas.gif" width="400px"/>
+<img align="right" alt="GIF" src="./assets/Code Hacking GIF by Pizza Ninjas.gif" width="400px"/>
 
 ##
 
