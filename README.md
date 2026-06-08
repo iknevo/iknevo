@@ -1,5 +1,5 @@
 <samp>
-  check out my website -> <a href="https://nevo.is-a.dev/" target="_blank">nevo.is-a.dev</a>
+  check out my website -> <a href="https://nevo.is-a.dev/">nevo.is-a.dev</a>
 </samp>
 
 <!-- banner -->
