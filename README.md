@@ -1,14 +1,27 @@
+```lua
+~/whoami
+
+local ahmed = {
+  role = "Front-End developer",
+  company = "don't know yet",
+  editor = "neovim, btw",
+  location = "Egypt",
+  blog = "nevo.is-a.dev/blog",
+  mail = "iknevo.dev@gmail.com",
+  work = "ahmed.abdelhafiez.work@outlook.com"
+}
+```
 <samp>
   check out my website -> <a href="https://nevo.is-a.dev/">nevo.is-a.dev</a>
 </samp>
 
-<!-- banner -->
-<!-- <img src="./assets/killua-banner.jpeg" width="100%"/> -->
 
+<!-- <img src="./assets/killua-banner.jpeg" width="100%"/> -->
+<!---->
 <!-- <p align="left"> Front-end developer. Proficient in building responsive, user-friendly interfaces and -->
 <!-- translating designs into functional applications. Eager to contribute and grow within a -->
 <!-- dynamic team.</p> -->
-
+<!---->
 <!-- ### Your can reach me at: **<iknevo.dev@gmail.com>** -->
 
 <!-- got u -->
