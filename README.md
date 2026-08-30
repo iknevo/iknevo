@@ -3,7 +3,7 @@
 
 local ahmed = {
   role = "Front-End developer",
-  company = "don't know yet",
+  company = "Null",
   editor = "neovim, btw",
   location = "Egypt",
   blog = "nevo.is-a.dev/blog",
