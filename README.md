@@ -3,12 +3,10 @@
 
 local ahmed = {
   role = "Front-End developer",
-  company = "Null",
   editor = "neovim, btw",
   location = "Egypt",
   blog = "nevo.is-a.dev/blog",
-  mail = "iknevo.dev@gmail.com",
-  work = "ahmed.abdelhafiez.work@outlook.com"
+  contact = "ahmed.abdelhafiez.work@outlook.com"
 }
 ```
 <samp>
