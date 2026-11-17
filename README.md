@@ -5,7 +5,6 @@ local ahmed = {
   role = "Front-End developer",
   editor = "neovim, btw",
   location = "Egypt",
-  blog = "nevo.is-a.dev/blog",
   contact = "ahmed.abdelhafiez.work@outlook.com"
 }
 ```
